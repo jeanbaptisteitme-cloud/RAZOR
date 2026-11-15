@@ -1,0 +1,6 @@
+{
+  "name": "C007",
+  "description": "Precision scientific calculator with an AES-GCM encrypted hidden file and note vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
